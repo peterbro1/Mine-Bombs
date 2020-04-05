@@ -1,0 +1,7 @@
+name: minebomb
+main: me.gmx.minebomb.Minebomb
+version: ${project.version}
+depend: [WorldGuard]
+author: GMX
+commands:
+  minebomb:
